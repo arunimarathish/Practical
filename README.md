@@ -49,6 +49,19 @@ c. if the character is a numeric digit ,prints its name intext (for ex:-if input
 
 ![14](https://github.com/user-attachments/assets/daaeaac4-91df-4b4d-96f4-a6ed78e6fabb)
 
+# practical 9
+
+![12](https://github.com/user-attachments/assets/b774df5a-e411-4044-828c-7726a2a84de2)
+
+
+![14](https://github.com/user-attachments/assets/daaeaac4-91df-4b4d-96f4-a6ed78e6fabb)
+![19](https://github.com/user-attachments/assets/fccdd76e-89a8-442d-92b9-84228b28fe7c)
+ # practical 10
+![image](https://github.com/user-attachments/assets/cc701039-b806-47bd-8e89-fcc643dc14e7)
+![211 cd](https://github.com/user-attachments/assets/edcccb55-9465-4259-af6f-3d6972073fde)
+
+
+
 
 
 
