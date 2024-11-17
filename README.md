@@ -56,6 +56,10 @@ c. if the character is a numeric digit ,prints its name intext (for ex:-if input
  # practical 10
 ![image](https://github.com/user-attachments/assets/cc701039-b806-47bd-8e89-fcc643dc14e7)
 ![211 cd](https://github.com/user-attachments/assets/edcccb55-9465-4259-af6f-3d6972073fde)
+ # practical 11
+
+![12111](https://github.com/user-attachments/assets/3fb494ae-aef5-4284-ad4d-63469487217f)
+
 
 
 
