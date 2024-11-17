@@ -52,6 +52,7 @@ c. if the character is a numeric digit ,prints its name intext (for ex:-if input
 
 # practical 7
 <h2>write a function that accepts two string and returns the indices of all the occurances of the second string in the first string as a list . if the second string is not present in the first string then it should return -1
+  
 ![12](https://github.com/user-attachments/assets/cd37dc81-7bed-4537-a3a3-f0a80363f6b1)
 
 # practical 8 
