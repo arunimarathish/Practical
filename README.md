@@ -35,6 +35,9 @@ c. if the character is a numeric digit ,prints its name intext (for ex:-if input
 
 # practial 6
 ![2](https://github.com/user-attachments/assets/d235c98d-3f90-4903-8e53-d964fd4bbe86)
+![4](https://github.com/user-attachments/assets/9911c1cd-742d-4a66-a74f-33ff4ff263a6)
+![Captur8](https://github.com/user-attachments/assets/879fd1bc-576c-4983-b5ba-252eeb5eb4e6)
+
 
 
 # practical 6
