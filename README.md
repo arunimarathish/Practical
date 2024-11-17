@@ -34,6 +34,8 @@ c. if the character is a numeric digit ,prints its name intext (for ex:-if input
 <img src="https://github.com/user-attachments/assets/c1a5ade9-4c35-4438-8025-98f88ad4d37c">
 
 # practial 6
+![2](https://github.com/user-attachments/assets/d235c98d-3f90-4903-8e53-d964fd4bbe86)
+
 
 # practical 6
 
