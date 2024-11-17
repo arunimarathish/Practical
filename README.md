@@ -43,6 +43,12 @@ c. if the character is a numeric digit ,prints its name intext (for ex:-if input
 
 
 # practical 7
+![12](https://github.com/user-attachments/assets/cd37dc81-7bed-4537-a3a3-f0a80363f6b1)
+
+# practical 8 
+
+![14](https://github.com/user-attachments/assets/daaeaac4-91df-4b4d-96f4-a6ed78e6fabb)
+
 
 
 
